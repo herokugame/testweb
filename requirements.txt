@@ -1,4 +1,4 @@
 flask
 streamlit
 xgboost
-sklearn
+scikit-learn
